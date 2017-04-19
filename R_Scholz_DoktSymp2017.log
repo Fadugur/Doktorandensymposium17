@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2016.11.18)  19 APR 2017 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2016.11.18)  19 APR 2017 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1077,7 +1077,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
  [9
 
  <./figures/germanSurfScheme.png>]
-<figures/Traj_XYZTh.png, id=527, 827.9733pt x 551.9019pt>
+<figures/Traj_XYZTh.png, id=526, 827.9733pt x 551.9019pt>
 File: figures/Traj_XYZTh.png Graphic file (type png)
 
 <use figures/Traj_XYZTh.png>
@@ -1101,7 +1101,7 @@ ed-to.pdf figures/fig_3b.eps>
 (epstopdf)             \includegraphics on input line 465.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/fig_3b-eps-converted-to.pdf, id=573, 383.4325pt x 258.9675pt>
+<figures/fig_3b-eps-converted-to.pdf, id=572, 383.4325pt x 258.9675pt>
 File: figures/fig_3b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/fig_3b-eps-converted-to.pdf>
@@ -1109,7 +1109,7 @@ Package pdftex.def Info: figures/fig_3b-eps-converted-to.pdf used on input line
  465.
 (pdftex.def)             Requested size: 199.73653pt x 134.90096pt.
 
-<figures/TPD.png, id=574, 425.59pt x 444.66125pt>
+<figures/TPD.png, id=573, 425.59pt x 444.66125pt>
 File: figures/TPD.png Graphic file (type png)
  <use figures/TPD.png>
 Package pdftex.def Info: figures/TPD.png used on input line 465.
@@ -1126,7 +1126,7 @@ Overfull \vbox (0.85373pt too high) detected at line 465
 [11
 
  <./figures/fig_3b-eps-converted-to.pdf> <./figures/TPD.png (PNG copy)>]
-<figures/Pdes_vs_Fluence.pdf, id=625, 473.77pt x 354.32375pt>
+<figures/Pdes_vs_Fluence.pdf, id=624, 473.77pt x 354.32375pt>
 File: figures/Pdes_vs_Fluence.pdf Graphic file (type pdf)
 
 <use figures/Pdes_vs_Fluence.pdf>
@@ -1135,7 +1135,7 @@ Package pdftex.def Info: figures/Pdes_vs_Fluence.pdf used on input line 484.
  [12
 
  <./figures/Pdes_vs_Fluence.pdf>]
-<figures/movie.png, id=675, 256.0767pt x 43.8438pt>
+<figures/movie.png, id=674, 256.0767pt x 43.8438pt>
 File: figures/movie.png Graphic file (type png)
  <use figures/movie.png>
 Package pdftex.def Info: figures/movie.png used on input line 511.
@@ -1145,7 +1145,7 @@ Overfull \hbox (13.65903pt too wide) in paragraph at lines 511--511
 []| [][][]  
  []
 
-<figures/PES_XYview.pdf, id=676, 244.61388pt x 170.6375pt>
+<figures/PES_XYview.pdf, id=675, 244.61388pt x 170.6375pt>
 File: figures/PES_XYview.pdf Graphic file (type pdf)
 
 <use figures/PES_XYview.pdf>
@@ -1155,7 +1155,7 @@ Package pdftex.def Info: figures/PES_XYview.pdf used on input line 511.
 
  <./figures/movie.png> <./figures/PES_XYview.pdf>] [14
 
-] <figures/saalfrank_picture.jpg, id=814, 397.485pt x 507.8975pt>
+] <figures/saalfrank_picture.jpg, id=813, 397.485pt x 507.8975pt>
 File: figures/saalfrank_picture.jpg Graphic file (type jpg)
 
 <use figures/saalfrank_picture.jpg>
@@ -1164,7 +1164,7 @@ Package pdftex.def Info: figures/saalfrank_picture.jpg used on input line 562.
  [15
 
  <./figures/saalfrank_picture.jpg>]
-<figures/6dimScheme.png, id=860, 284.6097pt x 207.12433pt>
+<figures/6dimScheme.png, id=859, 284.6097pt x 207.12433pt>
 File: figures/6dimScheme.png Graphic file (type png)
 
 <use figures/6dimScheme.png>
@@ -1184,7 +1184,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 590.
  [16
 
- <./figures/6dimScheme.png>] <figures/scienceXray.png, id=910, 662.475pt x 336.
+ <./figures/6dimScheme.png>] <figures/scienceXray.png, id=909, 662.475pt x 336.
 50719pt>
 File: figures/scienceXray.png Graphic file (type png)
 
@@ -1196,7 +1196,7 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 633--633
  [] 
  []
 
-<figures/XrayIntOverTime.png, id=911, 669.2503pt x 447.17062pt>
+<figures/XrayIntOverTime.png, id=910, 669.2503pt x 447.17062pt>
 File: figures/XrayIntOverTime.png Graphic file (type png)
 
 <use figures/XrayIntOverTime.png>
@@ -1210,7 +1210,7 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 633--633
 [17
 
  <./figures/scienceXray.png> <./figures/XrayIntOverTime.png>]
-<figures/PES_samplepoints.pdf, id=955, 252.945pt x 412.54124pt>
+<figures/PES_samplepoints.pdf, id=954, 252.945pt x 412.54124pt>
 File: figures/PES_samplepoints.pdf Graphic file (type pdf)
 
 <use figures/PES_samplepoints.pdf>
@@ -1232,7 +1232,7 @@ Overfull \vbox (16.60825pt too high) detected at line 672
 [18
 
  <./figures/PES_samplepoints.pdf>]
-<figures/Part1SurfScheme.png, id=999, 90.8193pt x 59.7432pt>
+<figures/Part1SurfScheme.png, id=998, 90.8193pt x 59.7432pt>
 File: figures/Part1SurfScheme.png Graphic file (type png)
 
 <use figures/Part1SurfScheme.png>
@@ -1245,7 +1245,7 @@ Package pdftex.def Info: figures/TTM_1pulse-eps-converted-to.pdf used on input
 line 703.
 (pdftex.def)             Requested size: 92.1879pt x 92.90656pt.
 
-<figures/2TM_equs.png, id=1000, 737.60103pt x 243.63185pt>
+<figures/2TM_equs.png, id=999, 737.60103pt x 243.63185pt>
 File: figures/2TM_equs.png Graphic file (type png)
 
 <use figures/2TM_equs.png>
@@ -1258,7 +1258,7 @@ Package pdftex.def Info: figures/2TM_equs.png used on input line 703.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 705.
 
-<figures/scheme_nonadiab.png, id=1041, 736.25063pt x 514.17094pt>
+<figures/scheme_nonadiab.png, id=1040, 736.25063pt x 514.17094pt>
 File: figures/scheme_nonadiab.png Graphic file (type png)
 
 <use figures/scheme_nonadiab.png>
@@ -1267,14 +1267,14 @@ Package pdftex.def Info: figures/scheme_nonadiab.png used on input line 718.
  [20
 
  <./figures/scheme_nonadiab.png>]
-<figures/Part2SurfScheme.png, id=1080, 90.8193pt x 59.7432pt>
+<figures/Part2SurfScheme.png, id=1079, 90.8193pt x 59.7432pt>
 File: figures/Part2SurfScheme.png Graphic file (type png)
 
 <use figures/Part2SurfScheme.png>
 Package pdftex.def Info: figures/Part2SurfScheme.png used on input line 752.
 (pdftex.def)             Requested size: 92.1879pt x 60.64734pt.
 
-<figures/Langevin_eq.png, id=1081, 888.8465pt x 162.42123pt>
+<figures/Langevin_eq.png, id=1080, 888.8465pt x 162.42123pt>
 File: figures/Langevin_eq.png Graphic file (type png)
 
 <use figures/Langevin_eq.png>
@@ -1287,7 +1287,7 @@ Overfull \vbox (1.9186pt too high) detected at line 752
 [21
 
  <./figures/Part2SurfScheme.png> <./figures/Langevin_eq.png>]
-<figures/GLO_eq1.png, id=1122, 985.6825pt x 227.85126pt>
+<figures/GLO_eq1.png, id=1121, 985.6825pt x 227.85126pt>
 File: figures/GLO_eq1.png Graphic file (type png)
 
 <use figures/GLO_eq1.png>
@@ -1298,7 +1298,7 @@ Overfull \hbox (102.99956pt too wide) in paragraph at lines 775--775
  | [] 
  []
 
-<figures/Part3SurfScheme.png, id=1123, 90.8193pt x 59.7432pt>
+<figures/Part3SurfScheme.png, id=1122, 90.8193pt x 59.7432pt>
 File: figures/Part3SurfScheme.png Graphic file (type png)
 
 <use figures/Part3SurfScheme.png>
@@ -1309,7 +1309,7 @@ Overfull \hbox (3.13013pt too wide) in paragraph at lines 775--775
  | [] 
  []
 
-<figures/GLO_eq2.png, id=1124, 903.375pt x 245.91875pt>
+<figures/GLO_eq2.png, id=1123, 903.375pt x 245.91875pt>
 File: figures/GLO_eq2.png Graphic file (type png)
 
 <use figures/GLO_eq2.png>
@@ -1320,7 +1320,7 @@ Overfull \hbox (87.63414pt too wide) in paragraph at lines 775--775
  | [] 
  []
 
-<figures/GLO.png, id=1125, 1005.56477pt x 928.09134pt>
+<figures/GLO.png, id=1124, 1005.56477pt x 928.09134pt>
 File: figures/GLO.png Graphic file (type png)
  <use figures/GLO.png>
 Package pdftex.def Info: figures/GLO.png used on input line 775.
@@ -1334,7 +1334,7 @@ Overfull \hbox (21.87349pt too wide) in paragraph at lines 775--775
 
  <./figures/GLO_eq1.png> <./figures/Part3SurfScheme.png> <./figures/GLO_eq2.png
 > <./figures/GLO.png>]
-<figures/SummSurfScheme.png, id=1156, 241.8636pt x 63.5976pt>
+<figures/SummSurfScheme.png, id=1155, 241.8636pt x 63.5976pt>
 File: figures/SummSurfScheme.png Graphic file (type png)
 
 <use figures/SummSurfScheme.png>
@@ -1348,7 +1348,7 @@ Overfull \hbox (21.90659pt too wide) in paragraph at lines 781--781
 [23
 
  <./figures/SummSurfScheme.png (PNG copy)>]
-<figures/ZundTheta.pdf, id=1195, 244.61388pt x 199.144pt>
+<figures/ZundTheta.pdf, id=1194, 244.61388pt x 199.144pt>
 File: figures/ZundTheta.pdf Graphic file (type pdf)
 
 <use figures/ZundTheta.pdf>
@@ -1363,13 +1363,13 @@ Overfull \vbox (10.01656pt too high) detected at line 788
 [24
 
  <./figures/ZundTheta.pdf>]
-<figures/NurZ.png, id=1273, 149.16528pt x 104.93604pt>
+<figures/NurZ.png, id=1272, 149.16528pt x 104.93604pt>
 File: figures/NurZ.png Graphic file (type png)
  <use figures/NurZ.png>
 Package pdftex.def Info: figures/NurZ.png used on input line 801.
 (pdftex.def)             Requested size: 184.3758pt x 129.7126pt.
 
-<figures/GernotPMF.pdf, id=1274, 368.37625pt x 351.3125pt>
+<figures/GernotPMF.pdf, id=1273, 368.37625pt x 351.3125pt>
 File: figures/GernotPMF.pdf Graphic file (type pdf)
 
 <use figures/GernotPMF.pdf>
@@ -1378,14 +1378,14 @@ Package pdftex.def Info: figures/GernotPMF.pdf used on input line 801.
  [25
 
  <./figures/NurZ.png> <./figures/GernotPMF.pdf>] <figures/sciencePMF.png, id=13
-20, 642.90187pt x 511.15968pt>
+19, 642.90187pt x 511.15968pt>
 File: figures/sciencePMF.png Graphic file (type png)
 
 <use figures/sciencePMF.png>
 Package pdftex.def Info: figures/sciencePMF.png used on input line 820.
 (pdftex.def)             Requested size: 153.64493pt x 122.15825pt.
 
-<figures/PMF_Supp.pdf, id=1321, 244.61388pt x 187.70125pt>
+<figures/PMF_Supp.pdf, id=1320, 244.61388pt x 187.70125pt>
 File: figures/PMF_Supp.pdf Graphic file (type pdf)
 
 <use figures/PMF_Supp.pdf>
@@ -1394,7 +1394,7 @@ Package pdftex.def Info: figures/PMF_Supp.pdf used on input line 820.
  [26
 
  <./figures/sciencePMF.png> <./figures/PMF_Supp.pdf>] <figures/XYoverTime.png, 
-id=1379, 571.05345pt x 162.96886pt>
+id=1378, 571.05345pt x 162.96886pt>
 File: figures/XYoverTime.png Graphic file (type png)
 
 <use figures/XYoverTime.png>
@@ -1418,7 +1418,7 @@ File: figures/scienceXray.png Graphic file (type png)
 Package pdftex.def Info: figures/scienceXray.png used on input line 873.
 (pdftex.def)             Requested size: 215.10196pt x 109.26083pt.
 
-<figures/PartiPeak.png, id=1417, 407.5225pt x 677.53125pt>
+<figures/PartiPeak.png, id=1416, 407.5225pt x 677.53125pt>
 File: figures/PartiPeak.png Graphic file (type png)
 
 <use figures/PartiPeak.png>
@@ -1481,9 +1481,9 @@ ublic/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cm
 sy9.pfb></usr/share/texmf/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf/fonts/type1/urw/helvetic
 /uhvro8a.pfb></usr/share/texmf/fonts/type1/urw/times/utmr8a.pfb>
-Output written on R_Scholz_DoktSymp2017.pdf (30 pages, 10665720 bytes).
+Output written on R_Scholz_DoktSymp2017.pdf (30 pages, 10668007 bytes).
 PDF statistics:
- 1598 PDF objects out of 1728 (max. 8388607)
+ 1597 PDF objects out of 1728 (max. 8388607)
  1400 compressed objects within 14 object streams
  72 named destinations out of 1000 (max. 500000)
  385 words of extra memory for PDF output out of 10000 (max. 10000000)
