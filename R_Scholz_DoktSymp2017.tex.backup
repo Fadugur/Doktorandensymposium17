@@ -210,10 +210,13 @@
 \end{frame}
 
 \begin{frame}{Prinzipieller Mechanismus heterogener Katalyse}
-
+  
 \end{frame}
 
+
+\section{Theoretische Grundlagen}
 \subsection{Theorie}
+
 \begin{frame}{Besonderheiten von Metall-Adsorbat-Systemen}
  
 \end{frame}
@@ -230,25 +233,151 @@
           \item Pikosekundenlaser 
           \begin{itemize}
             \item 1 ps = 10$^{-12}$ s
-            \item ab $\approx$ 1 ps Pulsdauer
-            \item lineare Absorption $\propto I$  
+            \item ab $\approx\,$1 ps Pulsdauer
+%             \item lineare Absorption $\propto I$  
           \end{itemize}
 
           \item Femtosekundenlaser
           \begin{itemize}
             \item 1 fs = 10$^{-15}$ s
             \item typische Pulsdauer: 50 - 200 fs
-            \item nicht-lineare Absorption $\propto I^N$
+%             \item nicht-lineare Absorption $\propto I^N$
           \end{itemize}
           \item beide: Spitzenleistung $\gg$ cw-Laser
         \end{itemize}
       \end{block}
+      
+      \begin{block}{Erforschung elektronischer Reibung}
+        \begin{itemize}
+          \item Warum reichen ps-Laser nicht?
+          \item Was macht fs-Laser besonders?
+        \end{itemize}
+      \end{block}
+
     \column{0.3\textwidth}  
+    \vspace{.4cm}
+    \begin{figure}
+      \includegraphics[width = 1. \textwidth]{figures/ps.png}
+    \end{figure}
+    
+    \vspace{-.5cm}
+    \begin{figure}
+      \includegraphics[width = 0.4 \textwidth]{figures/fs.png}
+    \end{figure}
+    
+    \vspace{.2cm}
+    \begin{center}
+       \Huge\textbf{?}
+    \end{center}
+
+  \end{columns}
+
+\end{frame}
+
+\begin{frame}{Wirkung von fs-Lasern auf Metalle}
+  
+\end{frame}
+
+% \begin{frame}{Zweitemperaturzustand}
+%   
+% \end{frame}
+\begin{frame}{Wirkung hoher Elektronentemperatur auf Adsorbate}
+  
+\end{frame}
+
+\section{Ergebnisse}
+\subsection{Ergebnisse}
+
+\begin{frame}{Beispiel CO auf Ru - Diffusion nach Laseranregung}
+  
+\end{frame}
+
+\begin{frame}{Beispiel CO auf Ru - Adsorbattemperatur}
+  \begin{columns}[t]
+    \column{.65\textwidth}
+      \begin{figure}
+        \includegraphics[width = 1.\textwidth]{figures/fig_3b.eps}
+      \end{figure} 
+      \begin{block}{}
+       \begin{itemize}
+        \item \"uber je 20000 Trajektorien gemittelt
+        \item keine ``richtige'' Temperatur
+       \end{itemize}
+
+      \end{block}
+
+    \column{.3\textwidth}
+      \vspace{-.15cm}
+      \begin{figure}
+        \includegraphics[width = 1.2\textwidth]{figures/TPD.png}
+      \end{figure}
   \end{columns}
 \end{frame}
 
+\begin{frame}{Beispiel CO auf Ru - Lasergetriebene Desorption}
+  \begin{columns}[t]
+    \column{0.4\textwidth}
+      \begin{block}{}
+        \begin{itemize}
+          \item 
+        \end{itemize}
+      \end{block}
+    \column{0.6\textwidth}  
+  \end{columns}
+\end{frame}
+
+\begin{frame}{Beispiel CO auf Ru - ``dynamischer Fallen-Effekt''}
+  
+%     \begin{figure}
+      \hspace*{-.6cm}\includegraphics[width=1.1\textwidth]{figures/movie.png}
+%     \end{figure}
+% \vspace*{-.5cm}
+      \begin{columns}[t]
+  \column{.6\textwidth}
+  \begin{block}{\"Uberraschende Muster in XY-Ebene}
+    \begin{itemize}
+      \item vor Laser: alle Molek\"ule auf \textbf{top} 
+      \item nach 5 ps: \textbf{hcp}-Stelle bevorzugt  
+%       \item[$\Rightarrow$] 
+      \newline obwohl lokales Maximum!
+      \newline $\Rightarrow$ ``dynamical trapping'' 
+      \item 30 ps: wieder abgek\"uhlt
+      \newline $\Rightarrow$ \textbf{top}-Stelle wieder favorisiert 
+    \end{itemize}   
+  \end{block}
+
+  \column{.45\textwidth}
+    \begin{figure}
+      \includegraphics[width=\textwidth]{figures/PES_XYview.pdf}
+    \end{figure}
+  \end{columns}  
+\end{frame}
 
 
+\section{Zusammenfassung}
+  \subsection{Outlook}
+\begin{frame}{Zusammenfassung und Ausblick}
+  
+\end{frame}  
+  
+\begin{frame}{Danksagung}
+  \begin{columns}[t]
+    \column{0.7\textwidth}
+      \begin{block}{}
+       
+      \end{block}
+
+    \column{0.3\textwidth}
+      \begin{figure}
+%         \includegraphics[width = .8 \textwidth]{saalfrank}
+      \end{figure}
+
+  \end{columns}
+
+\end{frame}
+  
+  
+  
 % \begin{frame}[plain]{Outline}
 %   \tableofcontents
 %   % Die Option [pausesections] könnte nützlich sein.

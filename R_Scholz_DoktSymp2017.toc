@@ -2,4 +2,9 @@
 \select@language {german}
 \beamer@sectionintoc {1}{Einleitung}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Motivation}{2}{0}{1}
-\beamer@subsectionintoc {1}{2}{Theorie}{5}{0}{1}
+\beamer@sectionintoc {2}{Theoretische Grundlagen}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Theorie}{5}{0}{2}
+\beamer@sectionintoc {3}{Ergebnisse}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Ergebnisse}{10}{0}{3}
+\beamer@sectionintoc {4}{Zusammenfassung}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Outlook}{14}{0}{4}
