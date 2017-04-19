@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2016.11.18)  19 APR 2017 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2016.11.18)  19 APR 2017 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -914,40 +914,51 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 115.
  (./R_Scholz_DoktSymp2017.nav)
-[1
-
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 183.
+LaTeX Font Info:    Try loading font information for U+msa on input line 127.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 183.
+LaTeX Font Info:    Try loading font information for U+msb on input line 127.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 127.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 127.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 127.
+
+Overfull \hbox (4.55154pt too wide) detected at line 127
+[][][] $[]$[][][][][][] 
+ []
+
+[1
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 183.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 188.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 183.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 188.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 183.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 188.
 
 <figures/ammonia.png, id=126, 490.08093pt x 380.17032pt>
 File: figures/ammonia.png Graphic file (type png)
 
 <use figures/ammonia.png>
-Package pdftex.def Info: figures/ammonia.png used on input line 183.
+Package pdftex.def Info: figures/ammonia.png used on input line 188.
 (pdftex.def)             Requested size: 135.2088pt x 104.8807pt.
  <figures/autokat.jpg, id=127, 562.1pt x 374.39874pt>
 File: figures/autokat.jpg Graphic file (type jpg)
 
 <use figures/autokat.jpg>
-Package pdftex.def Info: figures/autokat.jpg used on input line 183.
+Package pdftex.def Info: figures/autokat.jpg used on input line 188.
 (pdftex.def)             Requested size: 85.52095pt x 56.96289pt.
 
-Overfull \hbox (7.77505pt too wide) in paragraph at lines 183--183
+Overfull \hbox (7.77505pt too wide) in paragraph at lines 188--188
  [] 
  []
 
@@ -955,23 +966,16 @@ Overfull \hbox (7.77505pt too wide) in paragraph at lines 183--183
 File: figures/schornsteine.jpg Graphic file (type jpg)
 
 <use figures/schornsteine.jpg>
-Package pdftex.def Info: figures/schornsteine.jpg used on input line 183.
+Package pdftex.def Info: figures/schornsteine.jpg used on input line 188.
 (pdftex.def)             Requested size: 63.60948pt x 85.99684pt.
  [2
 
  <./figures/ammonia.png> <./figures/autokat.jpg> <./figures/schornsteine.jpg>]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 210.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 210.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 210.
-
 <figures/katSchema.png, id=186, 501.875pt x 376.40625pt>
 File: figures/katSchema.png Graphic file (type png)
 
 <use figures/katSchema.png>
-Package pdftex.def Info: figures/katSchema.png used on input line 210.
+Package pdftex.def Info: figures/katSchema.png used on input line 215.
 (pdftex.def)             Requested size: 110.6219pt x 82.96469pt.
  [3
 
@@ -980,7 +984,7 @@ Package pdftex.def Info: figures/katSchema.png used on input line 210.
 File: figures/langmuir.jpg Graphic file (type jpg)
 
 <use figures/langmuir.jpg>
-Package pdftex.def Info: figures/langmuir.jpg used on input line 247.
+Package pdftex.def Info: figures/langmuir.jpg used on input line 252.
 (pdftex.def)             Requested size: 130.59912pt x 124.5729pt.
  [4
 
@@ -988,7 +992,7 @@ Package pdftex.def Info: figures/langmuir.jpg used on input line 247.
 <figures/hgold.jpg, id=278, 308.352pt x 125.0271pt>
 File: figures/hgold.jpg Graphic file (type jpg)
  <use figures/hgold.jpg>
-Package pdftex.def Info: figures/hgold.jpg used on input line 272.
+Package pdftex.def Info: figures/hgold.jpg used on input line 277.
 (pdftex.def)             Requested size: 307.28987pt x 124.59944pt.
 
 [5
@@ -997,10 +1001,10 @@ Package pdftex.def Info: figures/hgold.jpg used on input line 272.
 File: figures/elecFric.png Graphic file (type png)
 
 <use figures/elecFric.png>
-Package pdftex.def Info: figures/elecFric.png used on input line 306.
+Package pdftex.def Info: figures/elecFric.png used on input line 311.
 (pdftex.def)             Requested size: 129.06013pt x 86.86299pt.
 
-Overfull \hbox (6.14607pt too wide) in paragraph at lines 306--306
+Overfull \hbox (6.14607pt too wide) in paragraph at lines 311--311
  [] 
  []
 
@@ -1010,22 +1014,22 @@ Overfull \hbox (6.14607pt too wide) in paragraph at lines 306--306
 File: figures/ps.png Graphic file (type png)
 
 <use figures/ps.png>
-Package pdftex.def Info: figures/ps.png used on input line 355.
+Package pdftex.def Info: figures/ps.png used on input line 360.
 (pdftex.def)             Requested size: 92.1879pt x 9.9218pt.
  <figures/fs.png, id=374, 19.272pt x 33.9669pt>
 File: figures/fs.png Graphic file (type png)
 
 <use figures/fs.png>
-Package pdftex.def Info: figures/fs.png used on input line 355.
+Package pdftex.def Info: figures/fs.png used on input line 360.
 (pdftex.def)             Requested size: 36.87459pt x 64.99956pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 355.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 360.
  [7
 
  <./figures/ps.png> <./figures/fs.png>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 398.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 398.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 403.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 403.
 
 (/usr/share/texmf/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -1033,15 +1037,15 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 <figures/fermi.png, id=425, 467.44237pt x 376.67123pt>
 File: figures/fermi.png Graphic file (type png)
  <use figures/fermi.png>
-Package pdftex.def Info: figures/fermi.png used on input line 398.
+Package pdftex.def Info: figures/fermi.png used on input line 403.
 (pdftex.def)             Requested size: 96.79733pt x 77.99976pt.
 
-Overfull \hbox (3.47037pt too wide) in paragraph at lines 398--398
+Overfull \hbox (3.47037pt too wide) in paragraph at lines 403--403
  | [] 
  []
 
 
-LaTeX Warning: File `figures/TTM_1pulse.eps' not found on input line 398.
+LaTeX Warning: File `figures/TTM_1pulse.eps' not found on input line 403.
 
 Package epstopdf Info: Source file: <figures/TTM_1pulse.eps>
 (epstopdf)             Output file: <figures/TTM_1pulse-eps-converted-to.pdf>
@@ -1049,17 +1053,17 @@ Package epstopdf Info: Source file: <figures/TTM_1pulse.eps>
 (epstopdf)                    size: 9845 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/TTM_1pulse-eps-con
 verted-to.pdf figures/TTM_1pulse.eps>
-(epstopdf)             \includegraphics on input line 398.
+(epstopdf)             \includegraphics on input line 403.
 Package epstopdf Info: Output file is already uptodate.
 <figures/TTM_1pulse-eps-converted-to.pdf, id=426, 386.44376pt x 389.455pt>
 File: figures/TTM_1pulse-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/TTM_1pulse-eps-converted-to.pdf>
 Package pdftex.def Info: figures/TTM_1pulse-eps-converted-to.pdf used on input 
-line 398.
+line 403.
 (pdftex.def)             Requested size: 118.30931pt x 119.23225pt.
 
-Overfull \hbox (10.75598pt too wide) in paragraph at lines 398--398
+Overfull \hbox (10.75598pt too wide) in paragraph at lines 403--403
  [] 
  []
 
@@ -1070,10 +1074,10 @@ Overfull \hbox (10.75598pt too wide) in paragraph at lines 398--398
 File: figures/germanSurfScheme.png Graphic file (type png)
 
 <use figures/germanSurfScheme.png>
-Package pdftex.def Info: figures/germanSurfScheme.png used on input line 425.
+Package pdftex.def Info: figures/germanSurfScheme.png used on input line 430.
 (pdftex.def)             Requested size: 291.92444pt x 78.19807pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 425.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 430.
  [9
 
  <./figures/germanSurfScheme.png>]
@@ -1081,10 +1085,10 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
 File: figures/Traj_XYZTh.png Graphic file (type png)
 
 <use figures/Traj_XYZTh.png>
-Package pdftex.def Info: figures/Traj_XYZTh.png used on input line 434.
+Package pdftex.def Info: figures/Traj_XYZTh.png used on input line 439.
 (pdftex.def)             Requested size: 307.28987pt x 204.82368pt.
 
-Overfull \vbox (1.05435pt too high) detected at line 434
+Overfull \vbox (1.05435pt too high) detected at line 439
  []
 
 [10
@@ -1098,7 +1102,7 @@ Package epstopdf Info: Source file: <figures/fig_3b.eps>
 (epstopdf)                    size: 8411 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/fig_3b-eps-convert
 ed-to.pdf figures/fig_3b.eps>
-(epstopdf)             \includegraphics on input line 465.
+(epstopdf)             \includegraphics on input line 470.
 Package epstopdf Info: Output file is already uptodate.
 
 <figures/fig_3b-eps-converted-to.pdf, id=572, 383.4325pt x 258.9675pt>
@@ -1106,21 +1110,21 @@ File: figures/fig_3b-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/fig_3b-eps-converted-to.pdf>
 Package pdftex.def Info: figures/fig_3b-eps-converted-to.pdf used on input line
- 465.
+ 470.
 (pdftex.def)             Requested size: 199.73653pt x 134.90096pt.
 
 <figures/TPD.png, id=573, 425.59pt x 444.66125pt>
 File: figures/TPD.png Graphic file (type png)
  <use figures/TPD.png>
-Package pdftex.def Info: figures/TPD.png used on input line 465.
+Package pdftex.def Info: figures/TPD.png used on input line 470.
 (pdftex.def)             Requested size: 110.62518pt x 115.58205pt.
 
-Overfull \hbox (18.43729pt too wide) in paragraph at lines 465--465
+Overfull \hbox (18.43729pt too wide) in paragraph at lines 470--470
  [] 
  []
 
 
-Overfull \vbox (0.85373pt too high) detected at line 465
+Overfull \vbox (0.85373pt too high) detected at line 470
  []
 
 [11
@@ -1130,7 +1134,7 @@ Overfull \vbox (0.85373pt too high) detected at line 465
 File: figures/Pdes_vs_Fluence.pdf Graphic file (type pdf)
 
 <use figures/Pdes_vs_Fluence.pdf>
-Package pdftex.def Info: figures/Pdes_vs_Fluence.pdf used on input line 484.
+Package pdftex.def Info: figures/Pdes_vs_Fluence.pdf used on input line 489.
 (pdftex.def)             Requested size: 169.01036pt x 126.39944pt.
  [12
 
@@ -1138,10 +1142,10 @@ Package pdftex.def Info: figures/Pdes_vs_Fluence.pdf used on input line 484.
 <figures/movie.png, id=674, 256.0767pt x 43.8438pt>
 File: figures/movie.png Graphic file (type png)
  <use figures/movie.png>
-Package pdftex.def Info: figures/movie.png used on input line 511.
+Package pdftex.def Info: figures/movie.png used on input line 516.
 (pdftex.def)             Requested size: 338.02072pt x 57.87663pt.
 
-Overfull \hbox (13.65903pt too wide) in paragraph at lines 511--511
+Overfull \hbox (13.65903pt too wide) in paragraph at lines 516--516
 []| [][][]  
  []
 
@@ -1149,7 +1153,7 @@ Overfull \hbox (13.65903pt too wide) in paragraph at lines 511--511
 File: figures/PES_XYview.pdf Graphic file (type pdf)
 
 <use figures/PES_XYview.pdf>
-Package pdftex.def Info: figures/PES_XYview.pdf used on input line 511.
+Package pdftex.def Info: figures/PES_XYview.pdf used on input line 516.
 (pdftex.def)             Requested size: 138.2795pt x 96.45982pt.
  [13
 
@@ -1159,7 +1163,7 @@ Package pdftex.def Info: figures/PES_XYview.pdf used on input line 511.
 File: figures/saalfrank_picture.jpg Graphic file (type jpg)
 
 <use figures/saalfrank_picture.jpg>
-Package pdftex.def Info: figures/saalfrank_picture.jpg used on input line 562.
+Package pdftex.def Info: figures/saalfrank_picture.jpg used on input line 567.
 (pdftex.def)             Requested size: 49.1658pt x 62.82054pt.
  [15
 
@@ -1168,20 +1172,20 @@ Package pdftex.def Info: figures/saalfrank_picture.jpg used on input line 562.
 File: figures/6dimScheme.png Graphic file (type png)
 
 <use figures/6dimScheme.png>
-Package pdftex.def Info: figures/6dimScheme.png used on input line 590.
+Package pdftex.def Info: figures/6dimScheme.png used on input line 595.
 (pdftex.def)             Requested size: 122.9164pt x 89.45361pt.
 File: figures/PES_XYview.pdf Graphic file (type pdf)
  <use figures/PES_XYview.pdf>
-Package pdftex.def Info: figures/PES_XYview.pdf used on input line 590.
+Package pdftex.def Info: figures/PES_XYview.pdf used on input line 595.
 (pdftex.def)             Requested size: 122.9164pt x 85.74294pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 590.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 595.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <17.28> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 590.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 595.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 590.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 595.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 590.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 595.
  [16
 
  <./figures/6dimScheme.png>] <figures/scienceXray.png, id=909, 662.475pt x 336.
@@ -1189,10 +1193,10 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 File: figures/scienceXray.png Graphic file (type png)
 
 <use figures/scienceXray.png>
-Package pdftex.def Info: figures/scienceXray.png used on input line 633.
+Package pdftex.def Info: figures/scienceXray.png used on input line 638.
 (pdftex.def)             Requested size: 169.01035pt x 85.8467pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 633--633
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 638--638
  [] 
  []
 
@@ -1200,10 +1204,10 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 633--633
 File: figures/XrayIntOverTime.png Graphic file (type png)
 
 <use figures/XrayIntOverTime.png>
-Package pdftex.def Info: figures/XrayIntOverTime.png used on input line 633.
+Package pdftex.def Info: figures/XrayIntOverTime.png used on input line 638.
 (pdftex.def)             Requested size: 169.01035pt x 112.92503pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 633--633
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 638--638
 []  
  []
 
@@ -1214,19 +1218,19 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 633--633
 File: figures/PES_samplepoints.pdf Graphic file (type pdf)
 
 <use figures/PES_samplepoints.pdf>
-Package pdftex.def Info: figures/PES_samplepoints.pdf used on input line 672.
+Package pdftex.def Info: figures/PES_samplepoints.pdf used on input line 677.
 (pdftex.def)             Requested size: 59.9192pt x 97.72147pt.
 
-Overfull \hbox (8.13715pt too wide) in paragraph at lines 672--672
+Overfull \hbox (8.13715pt too wide) in paragraph at lines 677--677
  | [] 
  []
 
 File: figures/PES_XYview.pdf Graphic file (type pdf)
 <use figures/PES_XYview.pdf>
-Package pdftex.def Info: figures/PES_XYview.pdf used on input line 672.
+Package pdftex.def Info: figures/PES_XYview.pdf used on input line 677.
 (pdftex.def)             Requested size: 101.40622pt x 70.73772pt.
 
-Overfull \vbox (16.60825pt too high) detected at line 672
+Overfull \vbox (16.60825pt too high) detected at line 677
  []
 
 [18
@@ -1236,33 +1240,33 @@ Overfull \vbox (16.60825pt too high) detected at line 672
 File: figures/Part1SurfScheme.png Graphic file (type png)
 
 <use figures/Part1SurfScheme.png>
-Package pdftex.def Info: figures/Part1SurfScheme.png used on input line 703.
+Package pdftex.def Info: figures/Part1SurfScheme.png used on input line 708.
 (pdftex.def)             Requested size: 92.1879pt x 60.64734pt.
 File: figures/TTM_1pulse-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/TTM_1pulse-eps-converted-to.pdf>
 Package pdftex.def Info: figures/TTM_1pulse-eps-converted-to.pdf used on input 
-line 703.
+line 708.
 (pdftex.def)             Requested size: 92.1879pt x 92.90656pt.
 
 <figures/2TM_equs.png, id=999, 737.60103pt x 243.63185pt>
 File: figures/2TM_equs.png Graphic file (type png)
 
 <use figures/2TM_equs.png>
-Package pdftex.def Info: figures/2TM_equs.png used on input line 703.
+Package pdftex.def Info: figures/2TM_equs.png used on input line 708.
 (pdftex.def)             Requested size: 245.83282pt x 81.19801pt.
  [19
 
  <./figures/Part1SurfScheme.png> <./figures/2TM_equs.png>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 705.
+(hyperref)                than one, level fixed on input line 710.
 
 <figures/scheme_nonadiab.png, id=1040, 736.25063pt x 514.17094pt>
 File: figures/scheme_nonadiab.png Graphic file (type png)
 
 <use figures/scheme_nonadiab.png>
-Package pdftex.def Info: figures/scheme_nonadiab.png used on input line 718.
+Package pdftex.def Info: figures/scheme_nonadiab.png used on input line 723.
 (pdftex.def)             Requested size: 184.3758pt x 128.7621pt.
  [20
 
@@ -1271,17 +1275,17 @@ Package pdftex.def Info: figures/scheme_nonadiab.png used on input line 718.
 File: figures/Part2SurfScheme.png Graphic file (type png)
 
 <use figures/Part2SurfScheme.png>
-Package pdftex.def Info: figures/Part2SurfScheme.png used on input line 752.
+Package pdftex.def Info: figures/Part2SurfScheme.png used on input line 757.
 (pdftex.def)             Requested size: 92.1879pt x 60.64734pt.
 
 <figures/Langevin_eq.png, id=1080, 888.8465pt x 162.42123pt>
 File: figures/Langevin_eq.png Graphic file (type png)
 
 <use figures/Langevin_eq.png>
-Package pdftex.def Info: figures/Langevin_eq.png used on input line 752.
+Package pdftex.def Info: figures/Langevin_eq.png used on input line 757.
 (pdftex.def)             Requested size: 245.83282pt x 44.92pt.
 
-Overfull \vbox (1.9186pt too high) detected at line 752
+Overfull \vbox (1.9186pt too high) detected at line 757
  []
 
 [21
@@ -1291,10 +1295,10 @@ Overfull \vbox (1.9186pt too high) detected at line 752
 File: figures/GLO_eq1.png Graphic file (type png)
 
 <use figures/GLO_eq1.png>
-Package pdftex.def Info: figures/GLO_eq1.png used on input line 775.
+Package pdftex.def Info: figures/GLO_eq1.png used on input line 780.
 (pdftex.def)             Requested size: 199.73886pt x 46.17091pt.
 
-Overfull \hbox (102.99956pt too wide) in paragraph at lines 775--775
+Overfull \hbox (102.99956pt too wide) in paragraph at lines 780--780
  | [] 
  []
 
@@ -1302,10 +1306,10 @@ Overfull \hbox (102.99956pt too wide) in paragraph at lines 775--775
 File: figures/Part3SurfScheme.png Graphic file (type png)
 
 <use figures/Part3SurfScheme.png>
-Package pdftex.def Info: figures/Part3SurfScheme.png used on input line 775.
+Package pdftex.def Info: figures/Part3SurfScheme.png used on input line 780.
 (pdftex.def)             Requested size: 99.86943pt x 65.70128pt.
 
-Overfull \hbox (3.13013pt too wide) in paragraph at lines 775--775
+Overfull \hbox (3.13013pt too wide) in paragraph at lines 780--780
  | [] 
  []
 
@@ -1313,20 +1317,20 @@ Overfull \hbox (3.13013pt too wide) in paragraph at lines 775--775
 File: figures/GLO_eq2.png Graphic file (type png)
 
 <use figures/GLO_eq2.png>
-Package pdftex.def Info: figures/GLO_eq2.png used on input line 775.
+Package pdftex.def Info: figures/GLO_eq2.png used on input line 780.
 (pdftex.def)             Requested size: 184.37344pt x 50.18852pt.
 
-Overfull \hbox (87.63414pt too wide) in paragraph at lines 775--775
+Overfull \hbox (87.63414pt too wide) in paragraph at lines 780--780
  | [] 
  []
 
 <figures/GLO.png, id=1124, 1005.56477pt x 928.09134pt>
 File: figures/GLO.png Graphic file (type png)
  <use figures/GLO.png>
-Package pdftex.def Info: figures/GLO.png used on input line 775.
+Package pdftex.def Info: figures/GLO.png used on input line 780.
 (pdftex.def)             Requested size: 250.74518pt x 231.42747pt.
 
-Overfull \hbox (21.87349pt too wide) in paragraph at lines 775--775
+Overfull \hbox (21.87349pt too wide) in paragraph at lines 780--780
 []| []  
  []
 
@@ -1338,10 +1342,10 @@ Overfull \hbox (21.87349pt too wide) in paragraph at lines 775--775
 File: figures/SummSurfScheme.png Graphic file (type png)
 
 <use figures/SummSurfScheme.png>
-Package pdftex.def Info: figures/SummSurfScheme.png used on input line 781.
+Package pdftex.def Info: figures/SummSurfScheme.png used on input line 786.
 (pdftex.def)             Requested size: 353.38147pt x 92.92836pt.
 
-Overfull \hbox (21.90659pt too wide) in paragraph at lines 781--781
+Overfull \hbox (21.90659pt too wide) in paragraph at lines 786--786
  | [] 
  []
 
@@ -1352,12 +1356,12 @@ Overfull \hbox (21.90659pt too wide) in paragraph at lines 781--781
 File: figures/ZundTheta.pdf Graphic file (type pdf)
 
 <use figures/ZundTheta.pdf>
-Package pdftex.def Info: figures/ZundTheta.pdf used on input line 788.
+Package pdftex.def Info: figures/ZundTheta.pdf used on input line 793.
 (pdftex.def)             Requested size: 276.559pt x 225.16681pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 788.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 793.
 
-Overfull \vbox (10.01656pt too high) detected at line 788
+Overfull \vbox (10.01656pt too high) detected at line 793
  []
 
 [24
@@ -1366,14 +1370,14 @@ Overfull \vbox (10.01656pt too high) detected at line 788
 <figures/NurZ.png, id=1272, 149.16528pt x 104.93604pt>
 File: figures/NurZ.png Graphic file (type png)
  <use figures/NurZ.png>
-Package pdftex.def Info: figures/NurZ.png used on input line 801.
+Package pdftex.def Info: figures/NurZ.png used on input line 806.
 (pdftex.def)             Requested size: 184.3758pt x 129.7126pt.
 
 <figures/GernotPMF.pdf, id=1273, 368.37625pt x 351.3125pt>
 File: figures/GernotPMF.pdf Graphic file (type pdf)
 
 <use figures/GernotPMF.pdf>
-Package pdftex.def Info: figures/GernotPMF.pdf used on input line 801.
+Package pdftex.def Info: figures/GernotPMF.pdf used on input line 806.
 (pdftex.def)             Requested size: 122.91406pt x 117.22002pt.
  [25
 
@@ -1382,14 +1386,14 @@ Package pdftex.def Info: figures/GernotPMF.pdf used on input line 801.
 File: figures/sciencePMF.png Graphic file (type png)
 
 <use figures/sciencePMF.png>
-Package pdftex.def Info: figures/sciencePMF.png used on input line 820.
+Package pdftex.def Info: figures/sciencePMF.png used on input line 825.
 (pdftex.def)             Requested size: 153.64493pt x 122.15825pt.
 
 <figures/PMF_Supp.pdf, id=1320, 244.61388pt x 187.70125pt>
 File: figures/PMF_Supp.pdf Graphic file (type pdf)
 
 <use figures/PMF_Supp.pdf>
-Package pdftex.def Info: figures/PMF_Supp.pdf used on input line 820.
+Package pdftex.def Info: figures/PMF_Supp.pdf used on input line 825.
 (pdftex.def)             Requested size: 153.64493pt x 117.89726pt.
  [26
 
@@ -1398,16 +1402,16 @@ id=1378, 571.05345pt x 162.96886pt>
 File: figures/XYoverTime.png Graphic file (type png)
 
 <use figures/XYoverTime.png>
-Package pdftex.def Info: figures/XYoverTime.png used on input line 848.
+Package pdftex.def Info: figures/XYoverTime.png used on input line 853.
 (pdftex.def)             Requested size: 338.02072pt x 96.46658pt.
 
-Overfull \hbox (13.65903pt too wide) in paragraph at lines 848--848
+Overfull \hbox (13.65903pt too wide) in paragraph at lines 853--853
 []| [][][]  
  []
 
 File: figures/PES_XYview.pdf Graphic file (type pdf)
 <use figures/PES_XYview.pdf>
-Package pdftex.def Info: figures/PES_XYview.pdf used on input line 848.
+Package pdftex.def Info: figures/PES_XYview.pdf used on input line 853.
 (pdftex.def)             Requested size: 122.91406pt x 85.74294pt.
  [27
 
@@ -1415,17 +1419,17 @@ Package pdftex.def Info: figures/PES_XYview.pdf used on input line 848.
 File: figures/scienceXray.png Graphic file (type png)
 
 <use figures/scienceXray.png>
-Package pdftex.def Info: figures/scienceXray.png used on input line 873.
+Package pdftex.def Info: figures/scienceXray.png used on input line 878.
 (pdftex.def)             Requested size: 215.10196pt x 109.26083pt.
 
 <figures/PartiPeak.png, id=1416, 407.5225pt x 677.53125pt>
 File: figures/PartiPeak.png Graphic file (type png)
 
 <use figures/PartiPeak.png>
-Package pdftex.def Info: figures/PartiPeak.png used on input line 873.
+Package pdftex.def Info: figures/PartiPeak.png used on input line 878.
 (pdftex.def)             Requested size: 61.45703pt x 102.17322pt.
 
-Overfull \vbox (23.11826pt too high) detected at line 873
+Overfull \vbox (23.11826pt too high) detected at line 878
  []
 
 [28
@@ -1433,7 +1437,7 @@ Overfull \vbox (23.11826pt too high) detected at line 873
  <./figures/PartiPeak.png (PNG copy)>]
 File: figures/SummSurfScheme.png Graphic file (type png)
  <use figures/SummSurfScheme.png>
-Package pdftex.def Info: figures/SummSurfScheme.png used on input line 898.
+Package pdftex.def Info: figures/SummSurfScheme.png used on input line 903.
 (pdftex.def)             Requested size: 261.19826pt x 68.6863pt.
 
 [29
@@ -1450,14 +1454,14 @@ Package pdftex.def Info: figures/SummSurfScheme.png used on input line 898.
 \tf@snm=\write8
 \openout8 = `R_Scholz_DoktSymp2017.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 937.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 937.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 942.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 942.
  (./R_Scholz_DoktSymp2017.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 937.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 937.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 942.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 942.
 Package rerunfilecheck Info: File `R_Scholz_DoktSymp2017.out' has not changed.
 (rerunfilecheck)             Checksum: 581DD7A03E8E29CFFA9EAB287B707D3A;673.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 937.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 942.
  ) 
 Here is how much of TeX's memory you used:
  17957 strings out of 493091
@@ -1481,7 +1485,7 @@ ublic/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cm
 sy9.pfb></usr/share/texmf/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf/fonts/type1/urw/helvetic
 /uhvro8a.pfb></usr/share/texmf/fonts/type1/urw/times/utmr8a.pfb>
-Output written on R_Scholz_DoktSymp2017.pdf (30 pages, 10668007 bytes).
+Output written on R_Scholz_DoktSymp2017.pdf (30 pages, 10668061 bytes).
 PDF statistics:
  1597 PDF objects out of 1728 (max. 8388607)
  1400 compressed objects within 14 object streams
