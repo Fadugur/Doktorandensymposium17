@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.17)  19 APR 2017 03:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.17)  19 APR 2017 05:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,13 +934,13 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 183.
 
-<figures/ammonia.png, id=72, 490.08093pt x 380.17032pt>
+<figures/ammonia.png, id=78, 490.08093pt x 380.17032pt>
 File: figures/ammonia.png Graphic file (type png)
 
 <use figures/ammonia.png>
 Package pdftex.def Info: figures/ammonia.png used on input line 183.
 (pdftex.def)             Requested size: 135.2088pt x 104.8807pt.
- <figures/autokat.jpg, id=73, 562.1pt x 374.39874pt>
+ <figures/autokat.jpg, id=79, 562.1pt x 374.39874pt>
 File: figures/autokat.jpg Graphic file (type jpg)
 
 <use figures/autokat.jpg>
@@ -951,7 +951,7 @@ Overfull \hbox (7.77505pt too wide) in paragraph at lines 183--183
  [] 
  []
 
-<figures/schornsteine.jpg, id=74, 1710.39pt x 2312.64pt>
+<figures/schornsteine.jpg, id=80, 1710.39pt x 2312.64pt>
 File: figures/schornsteine.jpg Graphic file (type jpg)
 
 <use figures/schornsteine.jpg>
@@ -961,17 +961,17 @@ Package pdftex.def Info: figures/schornsteine.jpg used on input line 183.
 
  <./figures/ammonia.png> <./figures/autokat.jpg> <./figures/schornsteine.jpg>]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 211.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 210.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 211.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 210.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 211.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 210.
 
-<figures/katSchema.png, id=106, 501.875pt x 376.40625pt>
+<figures/katSchema.png, id=116, 501.875pt x 376.40625pt>
 File: figures/katSchema.png Graphic file (type png)
 
 <use figures/katSchema.png>
-Package pdftex.def Info: figures/katSchema.png used on input line 211.
+Package pdftex.def Info: figures/katSchema.png used on input line 210.
 (pdftex.def)             Requested size: 110.6219pt x 82.96469pt.
  [3
 
@@ -979,7 +979,25 @@ Package pdftex.def Info: figures/katSchema.png used on input line 211.
 
 ] [5
 
+] [6
+
 ]
+<figures/ps.png, id=244, 53.7207pt x 5.7816pt>
+File: figures/ps.png Graphic file (type png)
+ <use figures/ps.png>
+Package pdftex.def Info: figures/ps.png used on input line 272.
+(pdftex.def)             Requested size: 92.1879pt x 9.9218pt.
+
+<figures/fs.png, id=246, 19.272pt x 33.9669pt>
+File: figures/fs.png Graphic file (type png)
+ <use figures/fs.png>
+Package pdftex.def Info: figures/fs.png used on input line 272.
+(pdftex.def)             Requested size: 36.87459pt x 64.99956pt.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 272.
+ [7
+
+ <./figures/ps.png> <./figures/fs.png>]
 \tf@nav=\write6
 \openout6 = `R_Scholz_DoktSymp2017.nav'.
 
@@ -989,31 +1007,32 @@ Package pdftex.def Info: figures/katSchema.png used on input line 211.
 \tf@snm=\write8
 \openout8 = `R_Scholz_DoktSymp2017.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
-
-(./R_Scholz_DoktSymp2017.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 241.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
+ (./R_Scholz_DoktSymp2017.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
 Package rerunfilecheck Info: File `R_Scholz_DoktSymp2017.out' has not changed.
-(rerunfilecheck)             Checksum: 62CF43445355532DD9BAA3DA98CD8942;104.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
+(rerunfilecheck)             Checksum: F9D641965EDDB71C765B4A520ECD3194;160.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
  ) 
 Here is how much of TeX's memory you used:
- 17437 strings out of 494976
- 328355 string characters out of 6179137
- 407027 words of memory out of 5000000
- 20218 multiletter control sequences out of 15000+600000
- 43576 words of font info for 65 fonts, out of 8000000 for 9000
+ 17464 strings out of 494976
+ 328690 string characters out of 6179137
+ 408027 words of memory out of 5000000
+ 20236 multiletter control sequences out of 15000+600000
+ 48042 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,20n,57p,401b,1054s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on R_Scholz_DoktSymp2017.pdf (5 pages, 835796 bytes).
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/helvetic/uhvr8a.pfb>
+Output written on R_Scholz_DoktSymp2017.pdf (7 pages, 862343 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 12 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 306 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

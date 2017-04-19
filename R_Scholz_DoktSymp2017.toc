@@ -2,3 +2,4 @@
 \select@language {german}
 \beamer@sectionintoc {1}{Einleitung}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Motivation}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Theorie}{5}{0}{1}
